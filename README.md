@@ -1,7 +1,6 @@
 - 👋 Hi, I’m EzekielOjo
-- 👀 I’m interested in Cloud Architecture, Cyber Security , FrontEnd, BackEnd and Blockchain
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in FrontEnd, BackEnd and Blockchain
+- 🌱 
 - 📫 How to reach me ezekielojo37@gmail.com
 
 <!---
