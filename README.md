@@ -1,5 +1,5 @@
-- 👋 Hi, I’m EzekielOjo
-- 👀 I’m interested in FrontEnd, BackEnd and Blockchain
+- 👋 Hi, I’m Ezekiel Ojo
+- 👀  
 - 🌱 
 - 📫 How to reach me ezekielojo37@gmail.com
 
