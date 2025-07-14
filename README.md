@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ezekiel Ojo
-- 👀  
-- 🌱 
+- 👀 Senior Software Developer  
+- 🌱 I love building products with strong focus on performance , optimization and scalability
 - 📫 How to reach me ezekielojo37@gmail.com
 
 <!---
